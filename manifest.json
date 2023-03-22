@@ -1,0 +1,9 @@
+{
+  "background_color": "#000000",
+  "display": "standalone",
+  "lang": "en",
+  "name": "work-hard-travel-hard",
+  "short_name": "work-hard-travel-hard",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
